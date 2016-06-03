@@ -1,8 +1,8 @@
 package mycnf
 
 import (
-	"code.google.com/p/gcfg"
 	"fmt"
+	"gopkg.in/gcfg.v1"
 	"os"
 )
 
